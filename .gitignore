@@ -1,0 +1,12 @@
+.pyc
+__pycahe__/
+db.sqlite3
+
+
+venv/
+env/
+
+/static/
+
+.vscode/
+.idea/
